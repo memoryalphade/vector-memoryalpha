@@ -23,20 +23,20 @@
  */
 
 /**
- * SkinTemplate class for Vector skin
+ * SkinTemplate class for VectorV2 skin
  * @ingroup Skins
  */
-class SkinVector extends SkinTemplate {
-	public $skinname = 'vector';
-	public $stylename = 'Vector';
-	public $template = 'VectorTemplate';
+class SkinVectorV2 extends SkinTemplate {
+	public $skinname = 'vectorv2';
+	public $stylename = 'VectorV2';
+	public $template = 'VectorV2Template';
 	/**
 	 * @var Config
 	 */
-	private $vectorConfig;
+	private $vectorv2Config;
 
 	public function __construct() {
-		$this->vectorConfig = ConfigFactory::getDefaultInstance()->makeConfig( 'vector' );
+		$this->vectorv2Config = ConfigFactory::getDefaultInstance()->makeConfig( 'vectorv2' );
 	}
 
 	/**
@@ -46,12 +46,12 @@ class SkinVector extends SkinTemplate {
 	public function initPage( OutputPage $out ) {
 		parent::initPage( $out );
 
-		if ( $this->vectorConfig->get( 'VectorResponsive' ) ) {
+		if ( $this->vectorv2Config->get( 'VectorResponsive' ) ) {
 			$out->addMeta( 'viewport', 'width=device-width, initial-scale=1' );
-			$out->addModuleStyles( 'skins.vector.styles.responsive' );
+			$out->addModuleStyles( 'skins.vectorv2.styles.responsive' );
 		}
 
-		$out->addModules( 'skins.vector.js' );
+		$out->addModules( 'skins.vectorv2.js' );
 	}
 
 	/**
@@ -61,8 +61,8 @@ class SkinVector extends SkinTemplate {
 	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
 
-		$styles = [ 'mediawiki.skinning.interface', 'skins.vector.styles' ];
-		Hooks::run( 'SkinVectorStyleModules', [ $this, &$styles ] );
+		$styles = [ 'mediawiki.skinning.interface', 'skins.vectorv2.styles' ];
+		Hooks::run( 'SkinVectorV2StyleModules', [ $this, &$styles ] );
 		$out->addModuleStyles( $styles );
 	}
 
@@ -70,6 +70,6 @@ class SkinVector extends SkinTemplate {
 	 * Override to pass our Config instance to it
 	 */
 	public function setupTemplate( $classname, $repository = false, $cache_dir = false ) {
-		return new $classname( $this->vectorConfig );
+		return new $classname( $this->vectorv2Config );
 	}
 }

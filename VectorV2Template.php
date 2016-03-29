@@ -23,10 +23,10 @@
  */
 
 /**
- * QuickTemplate class for Vector skin
+ * QuickTemplate class for VectorV2 skin
  * @ingroup Skins
  */
-class VectorTemplate extends BaseTemplate {
+class VectorV2Template extends BaseTemplate {
 	/* Functions */
 
 	/**

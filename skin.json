@@ -1,36 +1,36 @@
 {
-	"name": "Vector",
+	"name": "VectorV2",
 	"author": [
 		"Trevor Parscal",
 		"Roan Kattouw",
 		"..."
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:Vector",
-	"descriptionmsg": "vector-skin-desc",
-	"namemsg": "skinname-vector",
+	"url": "https://www.mediawiki.org/wiki/Skin:VectorV2",
+	"descriptionmsg": "vectorv2-skin-desc",
+	"namemsg": "skinname-vectorv2",
 	"license-name": "GPL-2.0+",
 	"type": "skin",
 	"requires": {
 		"MediaWiki": ">= 1.25.0"
 	},
 	"ConfigRegistry": {
-		"vector": "GlobalVarConfig::newInstance"
+		"vectorv2": "GlobalVarConfig::newInstance"
 	},
 	"ValidSkinNames": {
-		"vector": "Vector"
+		"vectorv2": "VectorV2"
 	},
 	"MessagesDirs": {
-		"Vector": [
+		"VectorV2": [
 			"i18n"
 		]
 	},
 	"AutoloadClasses": {
-		"SkinVector": "SkinVector.php",
-		"VectorTemplate": "VectorTemplate.php"
+		"SkinVectorV2": "SkinVectorV2.php",
+		"VectorV2Template": "VectorV2Template.php"
 	},
 	"@note": "When modifying skins.vector.styles definition, make sure the installer still works",
 	"ResourceModules": {
-		"skins.vector.styles": {
+		"skins.vectorv2.styles": {
 			"targets": [ "desktop", "mobile" ],
 			"position": "top",
 			"styles": {
@@ -42,7 +42,7 @@
 				}
 			}
 		},
-		"skins.vector.styles.responsive": {
+		"skins.vectorv2.styles.responsive": {
 			"targets": [ "desktop", "mobile" ],
 			"position": "top",
 			"styles": {
@@ -51,7 +51,7 @@
 				}
 			}
 		},
-		"skins.vector.js": {
+		"skins.vectorv2.js": {
 			"scripts": [
 				"collapsibleTabs.js",
 				"vector.js"
@@ -65,10 +65,10 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "Vector"
+		"remoteSkinPath": "VectorV2"
 	},
 	"ResourceModuleSkinStyles": {
-		"vector": {
+		"vectorv2": {
 			"jquery.tipsy": "skinStyles/jquery.tipsy.less",
 			"jquery.ui.core": [
 				"skinStyles/jquery.ui/jquery.ui.core.css",
