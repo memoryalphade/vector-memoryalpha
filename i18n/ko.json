@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"vectorv2-action-addsection": "새 주제",
+	"vectorv2-action-delete": "삭제",
+	"vectorv2-action-move": "이동",
+	"vectorv2-action-protect": "보호",
+	"vectorv2-action-undelete": "삭제 취소",
+	"vectorv2-action-unprotect": "보호 설정 바꾸기",
+	"vectorv2-view-create": "만들기",
+	"vectorv2-view-edit": "편집",
+	"vectorv2-view-history": "역사 보기",
+	"vectorv2-view-viewsource": "원본 보기"
+}
