@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Марианна"
+			"Марианна",
+			"HalanTul"
 		]
 	},
 	"vectorv2-view-create": "Оҥоруу",
-	"vectorv2-view-view": "аах",
+	"vectorv2-view-view": "Аах",
 	"vectorv2-more-actions": "Эбии"
 }
