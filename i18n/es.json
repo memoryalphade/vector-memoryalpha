@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rubentl134"
+			"Rubentl134",
+			"Macofe"
 		]
 	},
 	"vectorv2-skin-desc": "Versión moderna de MonoBook, con un aspecto actualizado y muchas mejoras de usabilidad",
 	"vectorv2-action-addsection": "Añadir tema",
 	"vectorv2-action-delete": "Borrar",
-	"vectorv2-action-move": "Mover",
+	"vectorv2-action-move": "Trasladar",
 	"vectorv2-action-protect": "Proteger",
 	"vectorv2-action-undelete": "Restaurar",
 	"vectorv2-action-unprotect": "Cambiar protección",
