@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alex Khimich"
+			"Alex Khimich",
+			"Base"
 		]
 	},
+	"vectorv2-skin-desc": "Сучасна версія MonoBook з освіженим виглядом та багатьма покращеннями функціоналу",
 	"vectorv2-action-addsection": "Додати тему",
 	"vectorv2-action-delete": "Вилучити",
 	"vectorv2-action-move": "Перемістити",
