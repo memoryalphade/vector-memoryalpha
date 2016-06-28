@@ -9,5 +9,6 @@
 	"vectorv2-action-delete": "Выдаліць",
 	"vectorv2-action-move": "Перанесьці",
 	"vectorv2-action-protect": "Абараніць",
-	"vectorv2-action-undelete": "Аднавіць"
+	"vectorv2-action-undelete": "Аднавіць",
+	"vectorv2-action-unprotect": "Зьмяніць абарону"
 }
