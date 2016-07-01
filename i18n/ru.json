@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"Kaganer"
 		]
 	},
 	"vectorv2-skin-desc": "Современная версия MonoBook с обновлённым оформлением и многими улучшениями в юзабилити",
@@ -15,6 +16,6 @@
 	"vectorv2-view-edit": "Править",
 	"vectorv2-view-history": "Посмотреть историю",
 	"vectorv2-view-view": "Читать",
-	"vectorv2-view-viewsource": "Просмотр разметки",
+	"vectorv2-view-viewsource": "Просмотр кода",
 	"vectorv2-more-actions": "Ещё"
 }
