@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kumkumuk"
+			"Kumkumuk",
+			"Mirzali"
 		]
 	},
 	"vectorv2-skin-desc": "Asayışo de newe be versiyonê MonoBookiyo modern ra û weşkerdışê ke şenê bıgureniyê",
@@ -14,7 +15,7 @@
 	"vectorv2-view-create": "Vıraze",
 	"vectorv2-view-edit": "Bıvurne",
 	"vectorv2-view-history": "Verori bıvêne",
-	"vectorv2-view-view": "Bıwan",
+	"vectorv2-view-view": "Bıwane",
 	"vectorv2-view-viewsource": "Çımey bıvêne",
 	"vectorv2-more-actions": "Dehana vêşi"
 }
