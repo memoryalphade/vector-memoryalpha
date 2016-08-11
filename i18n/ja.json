@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Otokoume"
+			"Otokoume",
+			"Fryed-peach"
 		]
 	},
+	"vectorv2-skin-desc": "新しい外観と多くのユーザビリティ上の改善を含んだ、現代的なバージョンのモノブック",
 	"vectorv2-action-addsection": "話題を追加",
 	"vectorv2-action-delete": "削除",
 	"vectorv2-action-move": "移動",
