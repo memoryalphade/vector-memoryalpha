@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Termininja"
+			"Termininja",
+			"StanProg"
 		]
 	},
+	"vectorv2-skin-desc": "Модерна версия на MonoBook с обновен дизайн и много подобрения на ползваемостта",
 	"vectorv2-action-addsection": "Добавяне на тема",
 	"vectorv2-action-delete": "Изтриване",
 	"vectorv2-action-move": "Преместване",
