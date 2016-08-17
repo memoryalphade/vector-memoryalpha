@@ -20,7 +20,7 @@
 	"support": {
 		"wiki": "https://www.mediawiki.org/wiki/Skin:VectorV2",
 		"forum": "https://www.mediawiki.org/wiki/Skin_talk:VectorV2",
-		"source": "https://git.wikimedia.org/summary/mediawiki%2Fskins%2FVectorV2",
+		"source": "https://phabricator.wikimedia.org/diffusion/1872/",
 		"irc": "irc://irc.freenode.org/mediawiki"
 	},
 	"require": {
