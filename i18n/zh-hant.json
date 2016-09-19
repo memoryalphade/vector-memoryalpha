@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Wehwei"
 		]
 	},
+	"vectorv2-skin-desc": "有著新穎外觀與許多使用性改進的現代版 MonoBook",
 	"vectorv2-action-addsection": "新增話題",
 	"vectorv2-action-delete": "刪除",
 	"vectorv2-action-move": "移動",
