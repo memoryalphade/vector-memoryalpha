@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
 		]
 	},
+	"vectorv2-skin-desc": "Versão moderna do Monobook com aspecto atualizado e muitas melhorias de utilização",
 	"vectorv2-action-addsection": "Adicionar tópico",
 	"vectorv2-action-delete": "Eliminar",
 	"vectorv2-action-move": "Mover",
