@@ -5,6 +5,8 @@
 		]
 	},
 	"vectorv2-skin-desc": "提供清新的外观和许多可用性改进的现代版MonoBook",
+	"vectorv2.css": "/* 这里放置的CSS将影响使用VectorV2皮肤的用户 */",
+	"vectorv2.js": "/* 这里的任何JavaScript将为使用VectorV2皮肤的用户加载 */",
 	"vectorv2-action-addsection": "添加话题",
 	"vectorv2-action-delete": "删除",
 	"vectorv2-action-move": "移动",
