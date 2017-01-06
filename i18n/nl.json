@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Mainframe98"
 		]
 	},
+	"vectorv2-skin-desc": "Moderne versie van MonoBook met een fris uiterlijk en verbeteringen op het gebied van gebruiksvriendelijkheid",
 	"vectorv2-action-addsection": "Onderwerp toevoegen",
 	"vectorv2-action-delete": "Verwijderen",
 	"vectorv2-action-move": "Hernoemen",
