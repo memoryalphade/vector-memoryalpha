@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"vectorv2-skin-desc": "Version modèrna de MonoBook, amb un aspècte actualizat e fòrça melhoraments ergonomics",
+	"vectorv2-action-addsection": "Apondre un subjècte",
+	"vectorv2-action-delete": "Suprimir",
+	"vectorv2-action-move": "Desplaçar",
+	"vectorv2-action-protect": "Protegir",
+	"vectorv2-action-undelete": "Restablir",
+	"vectorv2-action-unprotect": "Modificar la proteccion",
+	"vectorv2-view-create": "Crear",
+	"vectorv2-view-edit": "Modificar",
+	"vectorv2-view-history": "Afichar l'istoric",
+	"vectorv2-view-view": "Legir",
+	"vectorv2-view-viewsource": "Veirez lo tèxte font",
+	"vectorv2-more-actions": "Mai"
+}
