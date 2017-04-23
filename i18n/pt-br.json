@@ -1,14 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eduardo Addad de Oliveira"
+			"Eduardo Addad de Oliveira",
+			"Felipe L. Ewald"
 		]
 	},
+	"skinname-vectorv2": "VectorV2",
 	"vectorv2-skin-desc": "Versão moderna do MonoBook com um visual limpo e várias melhorias de usabilidade",
+	"vectorv2.css": "/* CSS colocado aqui irá afetar usuários do tema VectorV2 */",
+	"vectorv2.js": "/* Qualquer JavaScript aqui colocado será carregado para usuários usando o tema VectorV2 */",
 	"vectorv2-action-addsection": "Adicionar tópico",
 	"vectorv2-action-delete": "Excluir",
 	"vectorv2-action-move": "Mover",
-	"vectorv2-action-protect": "Projeto",
+	"vectorv2-action-protect": "Proteger",
 	"vectorv2-action-undelete": "Restaurar",
 	"vectorv2-action-unprotect": "Alterar a proteção",
 	"vectorv2-view-create": "Criar",
