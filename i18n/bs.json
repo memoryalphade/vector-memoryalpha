@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"vectorv2-action-addsection": "Dodaj temu",
+	"vectorv2-action-delete": "Obriši",
+	"vectorv2-action-move": "Premjesti",
+	"vectorv2-action-protect": "Zaštiti",
+	"vectorv2-action-undelete": "Vrati",
+	"vectorv2-action-unprotect": "Promijeni zaštitu",
+	"vectorv2-view-create": "Napravi",
+	"vectorv2-view-edit": "Uredi",
+	"vectorv2-view-history": "Historija",
+	"vectorv2-view-view": "Čitaj",
+	"vectorv2-view-viewsource": "Pogledaj izvor",
+	"vectorv2-more-actions": "Više"
+}
