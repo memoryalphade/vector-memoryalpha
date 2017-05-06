@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic"
+		]
+	},
+	"vectorv2-action-addsection": "विषय जोड़ें",
+	"vectorv2-action-delete": "हटाएँ",
+	"vectorv2-action-move": "स्थानांतरण करें",
+	"vectorv2-action-protect": "सुरक्षित करें",
+	"vectorv2-action-undelete": "हटाना वापस लें",
+	"vectorv2-action-unprotect": "सुरक्षा बदलें",
+	"vectorv2-view-create": "बनाएँ",
+	"vectorv2-view-edit": "संपादित करें",
+	"vectorv2-view-history": "इतिहास देखें",
+	"vectorv2-view-view": "पढ़ें",
+	"vectorv2-view-viewsource": "स्रोत देखें",
+	"vectorv2-more-actions": "अधिक"
+}
