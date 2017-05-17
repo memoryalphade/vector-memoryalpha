@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"vectorv2-action-addsection": "Tambah rembug",
+	"vectorv2-action-delete": "Busak",
+	"vectorv2-action-move": "Lih",
+	"vectorv2-action-protect": "Reksa",
+	"vectorv2-action-undelete": "Wurung busak",
+	"vectorv2-action-unprotect": "Owah rereksan",
+	"vectorv2-view-create": "Gawé",
+	"vectorv2-view-edit": "Besut",
+	"vectorv2-view-history": "Deleng sujarah",
+	"vectorv2-view-view": "Waca",
+	"vectorv2-view-viewsource": "Deleng sumber",
+	"vectorv2-more-actions": "Liyané"
+}
