@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"vectorv2-action-addsection": "शीर्षक थपऽ",
+	"vectorv2-action-delete": "मेटऽ",
+	"vectorv2-action-move": "सारऽ",
+	"vectorv2-action-protect": "सुरक्षा अरऽ",
+	"vectorv2-action-undelete": "मेट्याको रद्द अरऽ",
+	"vectorv2-action-unprotect": "सुरक्षा बदेलऽ",
+	"vectorv2-view-create": "बनाऽ",
+	"vectorv2-view-edit": "सम्पादन",
+	"vectorv2-view-history": "इतिहास तकऽ",
+	"vectorv2-view-view": "पढ़ऽ",
+	"vectorv2-view-viewsource": "स्रोत हेरऽ",
+	"vectorv2-more-actions": "झिक्क"
+}
