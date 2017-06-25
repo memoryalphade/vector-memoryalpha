@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער"
+		]
+	},
+	"vectorv2-action-addsection": "צושטעלן טעמע",
+	"vectorv2-action-delete": "אויסמעקן",
+	"vectorv2-action-move": "באַװעגן",
+	"vectorv2-action-protect": "שיצן",
+	"vectorv2-action-undelete": "מבטל זיין אויסמעקן",
+	"vectorv2-action-unprotect": "ענדערן באַשיצונג",
+	"vectorv2-view-create": "שאַפֿן",
+	"vectorv2-view-edit": "רעדאַקטירן",
+	"vectorv2-view-history": "ווייזן היסטאָריע",
+	"vectorv2-view-view": "לייענען",
+	"vectorv2-view-viewsource": "ווײַזן מקור",
+	"vectorv2-more-actions": "נאך"
+}
