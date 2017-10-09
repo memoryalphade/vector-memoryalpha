@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Strainu"
+		]
+	},
+	"vectorv2-skin-desc": "Versiunea modernă pentru MonoBook cu o înfățișare reîmprospătată și multe îmbunătățiri de uzabilitate",
+	"vectorv2-action-addsection": "Adaugă un subiect",
+	"vectorv2-action-delete": "Șterge",
+	"vectorv2-action-move": "Redenumire",
+	"vectorv2-action-protect": "Protejare",
+	"vectorv2-action-undelete": "Recuperare",
+	"vectorv2-action-unprotect": "Modificare protecție",
+	"vectorv2-view-create": "Creare",
+	"vectorv2-view-edit": "Modificare",
+	"vectorv2-view-history": "Vizualizare istoric",
+	"vectorv2-view-view": "Lectură",
+	"vectorv2-view-viewsource": "Sursă pagină",
+	"vectorv2-more-actions": "Mai mult"
+}
