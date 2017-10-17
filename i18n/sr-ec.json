@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Obsuser"
+		]
+	},
+	"vectorv2-skin-desc": "Модерна верзија Монобука са свежим изгледом и много корисних побољшања",
+	"vectorv2-action-addsection": "Додај тему",
+	"vectorv2-action-delete": "Обриши",
+	"vectorv2-action-move": "Премести",
+	"vectorv2-action-protect": "Заштити",
+	"vectorv2-action-undelete": "Врати",
+	"vectorv2-action-unprotect": "Промени заштиту",
+	"vectorv2-view-create": "Направи",
+	"vectorv2-view-edit": "Уреди",
+	"vectorv2-view-history": "Погледај историју",
+	"vectorv2-view-view": "Прочитај",
+	"vectorv2-view-viewsource": "Погледај изворник",
+	"vectorv2-more-actions": "Више"
+}
