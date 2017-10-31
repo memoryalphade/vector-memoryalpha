@@ -11,7 +11,7 @@
 			"Raymond"
 		]
 	},
-	"skinname-vectorv2": "{{optional}}",
+	"skinname-vectorv2": "{{name}}",
 	"vectorv2-skin-desc": "{{desc|what=skin|name=VectorV2|url=https://www.mediawiki.org/wiki/Skin:VectorV2}}",
 	"vectorv2.css": "{{optional}}",
 	"vectorv2.js": "{{optional}}",
