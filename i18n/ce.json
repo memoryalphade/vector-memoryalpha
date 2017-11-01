@@ -4,5 +4,15 @@
 			"Умар"
 		]
 	},
+	"vectorv2-action-delete": "ДӀаяккха",
+	"vectorv2-action-move": "ЦӀе хийца",
+	"vectorv2-action-protect": "Ларъян",
+	"vectorv2-action-undelete": "МеттахӀоттае",
+	"vectorv2-action-unprotect": "Ларъяр хийцар",
+	"vectorv2-view-create": "Кхолла",
+	"vectorv2-view-edit": "Нисъе",
+	"vectorv2-view-history": "Исторега хьажар",
+	"vectorv2-view-view": "Ешар",
+	"vectorv2-view-viewsource": "Коде хьажар",
 	"vectorv2-more-actions": "Кхин"
 }
