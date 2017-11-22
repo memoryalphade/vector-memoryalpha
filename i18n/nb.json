@@ -4,7 +4,10 @@
 			"Jon Harald Søby"
 		]
 	},
+	"skinname-vectorv2": "VectorV2",
 	"vectorv2-skin-desc": "Moderne versjon av Monobook med et friskt utseende og mange brukervenlighetsforbedringer",
+	"vectorv2.css": "/* CSS i denne fila vil gjelde alle som bruker drakta VectorV2 */",
+	"vectorv2.js": "/* Javascript i denne fila vil gjelde for brukere av drakta VectorV2 */",
 	"vectorv2-action-addsection": "Legg til emne",
 	"vectorv2-action-delete": "Slett",
 	"vectorv2-action-move": "Flytt",
