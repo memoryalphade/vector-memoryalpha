@@ -89,9 +89,6 @@ div#mw-panel {
 		margin: 0 0.6em 0 0.7em;
 		padding: 0.25em 0;
 		direction: ltr;
-		background-position: top left;
-		background-repeat: no-repeat;
-		.background-image('images/portal-break.png');
 
 		h3 {
 			font-size: @menu-main-heading-font-size;
@@ -104,9 +101,7 @@ div#mw-panel {
 		}
 
 		div.body {
-			margin: @menu-main-body-margin;
 			padding-top: 0;
-
 			ul {
 				list-style-type: none;
 				list-style-image: none;
@@ -133,7 +128,6 @@ div#mw-panel {
 
 	/* First sidebar portlet. Not using :first-of-type for IE<=8 support. */
 	#p-logo + div.portal {
-		background-image: none;
 		margin-top: 0;
 		h3 {
 			display: none;
